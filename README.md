@@ -10,8 +10,6 @@ This repository contains essential RHEL components including system basics, comm
 | No. | Week | Topic | Document |
 |-----|------|--------|-----------|
 | 1   |   1  |   Manual RPM Installation & Telnet Configuration     | https://github.com/Manx2004/rhel-labs/blob/main/Manual%20RPM%20Installation%20%26%20Telnet%20Configuration.docx          |
-| 2   |      |        |           |
-| 3   |      |        |           |
 
 ## Connect with me 👍
 
