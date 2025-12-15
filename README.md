@@ -13,6 +13,7 @@ This repository contains essential RHEL components including system basics, comm
 |  2  |  1   | Configuring a Local YUM Server in RHEL (Offline ISO Method) | https://github.com/Manx2004/rhel-labs/blob/main/YUM%20Server%20Configuration.pdf |
 | 3    |  2  |  DHCP Configuration   | https://github.com/Manx2004/rhel-labs/blob/main/DHCP_Configuration.pdf  |
 |  4   |  2  |  SSH Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/SSH_Server_Configuration.pdf |
+| 5    |  3  | Samba Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/Samba_server_configuration.pdf |
 
 ## Connect with me 👍
 
