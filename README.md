@@ -15,6 +15,7 @@ This repository contains essential RHEL components including system basics, comm
 |  4   |  2  |  SSH Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/SSH_Server_Configuration.pdf |
 | 5    |  3  | Samba Server Configurations | https://github.com/Manx2004/rhel-labs/blob/main/Samba_server_configuration.pdf |
 | 6   |  4  | Task Scheduler Configuration | https://github.com/Manx2004/rhel-labs/blob/main/Task_scheduler%20Configurations.pdf|
+| 7  | 5  | Basic Disk Management in Linux(RHEL) | https://github.com/Manx2004/rhel-labs/blob/main/Basic%20Disk%20Management.pdf|
 ## Connect with me 👍
 
 LinkedIn  :  [https://www.linkedin.com/in/maneesh-g-7a99882a8/](https://www.linkedin.com/in/maneesh-g-7a99882a8/)
